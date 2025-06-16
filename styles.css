@@ -1,0 +1,69 @@
+
+
+body {
+  font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+h1 {
+    color: hsl(0, 0%, 100%);
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+}
+
+small {
+  font-size: 0.75rem;
+}
+
+.graduate-title {
+    font-weight: bold;
+}
+
+img {
+  width: 64px;            
+  height: 64px;
+  border-radius: 50%;     
+  object-fit: cover;
+  margin-right: 1rem;      
+}
+
+.rounded {
+    border-radius: 0.5rem;
+}
+
+.card-shadow {
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.2);
+}
+
+#dark-quote {
+    color: hsl(219, 29%, 14%);
+}
+
+#light-paragraph {
+    color: hsl(0, 0%, 100%);
+}
+
+#name-light {
+    color: hsl(0, 0%, 100%);
+}
+
+#purple-border {
+    border: 3px solid hsl(264, 82%, 80%)
+}
+
+#dark-purple-border {
+    border: 3px solid hsl(263, 55.10%, 52.00%);
+}
+
+.custom-bg-dark-purple {
+    background-color: hsl(263, 55.10%, 52.00%)
+}
+
+.custom-bg-gray {
+    background-color: hsl(217, 19%, 35%);
+}
+
+.custom-bg-dark-blue {
+    background-color: hsl(219, 29%, 14%);
+}
+
